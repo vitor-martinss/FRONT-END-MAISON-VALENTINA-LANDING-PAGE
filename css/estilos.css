@@ -1,0 +1,237 @@
+
+
+/*----MENU---*/
+
+.bg-dark{
+	background-color: black !important;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+	color:white;
+}
+
+.border-bottom{
+	border-bottom:1px solid rgba(255, 255, 255, 0.3) !important;
+}
+
+.justify-content-center{
+	text-align: center;
+}
+
+
+
+
+
+/*----CONTENT---*/
+
+.main-content{
+	float: left;
+	width: 100%;
+	background: url("../images/maison-valentina-background.jpg");
+}
+
+.left-content{
+	float: left;
+	padding: 35px 0px 0px 70px;
+	
+}
+
+.left-content img{
+	float: left;
+	width: 90%;
+}
+
+.right-content:nth-child(3){
+	margin: 10px 14px;
+}
+
+.right-content{
+	float: left;
+	padding: 40px 60px 0px 12px;
+}
+
+.right-content h1{
+	font-size: 2vw;
+	margin-bottom: 60px;
+}
+
+.right-content span{
+	font-weight: 600;
+}
+
+.right-content h2{
+	font-size: 1.5vw;
+	margin-bottom: 30px;
+}
+
+.right-content ul{
+	float: left;
+	width: 100%;
+	margin-bottom: 0;
+}
+
+.right-content ul li{
+	float: left;
+	width: 100%;
+	font-size: 1.1vw;
+	font-weight: 600;
+	margin:10px 0;
+}
+
+.right-content ul li p{
+	margin-bottom: 0;
+}
+
+.right-content ul li span{
+	font-weight: 800;
+}
+form{
+	float: left;
+	width: 100%;
+}
+
+form ul{
+	float: left;
+	width: 100%;
+}
+
+.right-content form ul li{
+	float: left;
+	width: 50%;
+}
+
+.thumbnail{
+	padding-left: 0;
+}
+
+form ul li input{
+	float: left;
+	width: 80%;
+	height: 30px
+}
+
+form ul li select{
+	float: left;
+	width: 80%;
+	padding: 16px;
+	height: 30px
+}
+
+form ul li .btn-primary{
+	color: white;
+	background: #a08866;
+	border: none;
+	width: 220px;
+	border-radius: 0;
+
+}
+
+.btn-primary:hover{
+	background-color: #a08866;
+	cursor: pointer;
+	color: grey;
+}
+
+form ul li a{
+	float: right;
+	margin-right: 55px;
+	color: #aeaeae;
+
+}
+
+form ul li a:hover{
+	color: #737373;
+	cursor: pointer;
+}
+
+.thumbnail ul li{
+	float: left;
+	margin: 10px 0;
+}
+
+.thumbnail ul li:nth-child(2){
+	margin: 10px 18px;
+}
+
+.catalogue{
+	float: left;
+	padding: 0;
+	margin-bottom: 30px;
+}
+
+.catalogue img{
+	float: left;
+	width: 100%;
+}
+
+/*-----FOOTER----*/
+
+footer{
+	background-color: black;
+	color: white;
+	float: left;
+	width: 100%;
+}
+
+.content-footer{
+	float: left;	
+	width: 100%;
+	margin-top: 50px;
+	font-size: 1.5vw;
+	color: #9d9d9d;
+}
+
+.content-footer h3{
+	font-size: 1.8vw;
+	color: white;
+}
+
+.content-footer ul{
+	float: left;
+	padding: 2%;
+}
+
+.content-footer img{
+	float: left;
+	width: 100%;
+}
+
+.content-footer .follow-us{
+	float: left;
+	width: 100%;
+	padding: 0;
+}
+
+.content-footer button{
+	margin-right: -4px;
+	padding: 4px;
+	margin-bottom: 3px;
+}
+
+.content-footer .form-control{
+	padding: 6px;
+	border: 0;
+	border-radius: 0;
+}
+
+.follow-us li{
+	float: left;
+}
+
+.follow-us li:first-child{
+	float: left;
+	width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
